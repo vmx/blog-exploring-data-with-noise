@@ -4,8 +4,15 @@ Exploring data with Noise
 This repository contains all the dependencies and sample data to follow along
 the blog post [Exploring data with Noise].
 
+
+Data
+----
+
 The sample data [circl-cve.json] is a subset of the [JSON dump of the CVE
-database provided by CIRCL] checked out on 2017-12-07.
+database provided by CIRCL] checked out on 2017-12-07. It was created via
+
+    wget https://cve.circl.lu/static/circl-cve-search-expanded.json.gz
+    unzip -c circl-cve-search-expanded.json.gz|head -1000 > circl-cve.json
 
 
 License
