@@ -1,0 +1,27 @@
+{
+  "name": "blog-exploring-data-with-noise",
+  "version": "0.1.0",
+  "description": "Supplementary repository for the blog post \"Exploring data with Noise\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmx/blog-exploring-data-with-noise.git"
+  },
+  "keywords": [
+    "Noise",
+    "HTTP",
+    "JSON",
+    "search"
+  ],
+  "author": "Volker Mische",
+  "bugs": {
+    "url": "https://github.com/vmx/blog-exploring-data-with-noise/issues"
+  },
+  "homepage": "https://github.com/vmx/blog-exploring-data-with-noise#readme",
+  "dependencies": {
+    "noise-dataload": "vmx/noise-dataload",
+    "noise-indexserve": "vmx/noise-indexserve"
+  }
+}
