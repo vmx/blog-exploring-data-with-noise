@@ -21,7 +21,7 @@ License
 The sample data [circl-cve.json] is from [CIRCL Computer Incident Response
 Center Luxembourg] licensed under an [international CC-BY 4.0].
 
-[Exploring data with Noise]: http://vmx.cx/
+[Exploring data with Noise]: http://vmx.cx/cgi-bin/blog/index.cgi/exploring-data-with-noise%253A2017-12-12%253Aen%252CNoise%252CNode%252CJavaScript%252CRust
 [circl-cve.json]: circl-cve.json
 [CIRCL Computer Incident Response Center Luxembourg]: https://www.circl.lu/
 [JSON dump of the CVE database provided by CIRCL]: https://www.circl.lu/opendata/
